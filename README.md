@@ -16,26 +16,31 @@ I'm a student in Meijo University
 
 #### その他技術レベル
  - Linux中級者 Arch経験有(最近はManjaroへ逃亡)
- - 
+     - Linuxにてサーバを建てていたが、PHPによるWebアプリケーション開発に限界を感じモダンなフレームワークによるWeb開発に興味を持ったという流れ
+    - シェルスクリプトはあまり書けない(シェル芸も無理)
+     - 正規表現が怖かったりする
+    - ゆくゆくはVimを使いたい
+    - Gentoo使いを見ると後ろめたさを感じる
 
 ---
 #### 興味のある技術(学習途上)
 
  - Webフロントエンド
-  - Vue.js
+    - Vue.js
  - Webバックエンド
-  - Express.js
-  - Flask
-  - Django
+    - Express.js
+    - Flask
+    - Django
 
 Javascriptを学びたい
 
----
 #### その他興味有分野
 
  - Webセキュリティ
  - リバースエンジニアリング (Rev)
  - 低レイヤセキュリティ (Pwning)
+
+来年までにはCTFデビューを目指します
 
 こんな感じで生きています
 宜しくお願いします
